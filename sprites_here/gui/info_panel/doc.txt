@@ -1,0 +1,11 @@
+info panel:
+health rect.x = 17 rect.y = 16
+	rect.centerx = 52   rect.centery = 32
+
+gun blit rect.x = 162  rect.y = 16
+
+resours 1 = rect.centerx = 41  rect.centery = 115
+resours 2 = rect.centerx = 105  rect.centery = 115
+resours 3 = rect.centerx = 170  rect.centery = 155
+
+fuel rect.centerx = 86  rect.centery = 18

@@ -1,0 +1,31 @@
+1-st slot - rect.x = 68 rect.y = 56
+
+2-nd slot - rect.x = 236 rect.y = 56
+
+3-rd slot - rect.x = 404    rect.y = 56
+
+slot1 
+res1 x = 84 y = 263
+res2 x = 132 y = 263
+res3 x = 180 y = 263
+
+slot2
+res1 252 263
+res2 300 263
+res3 348 263
+
+slot3
+res1 420 263
+res2 468 263
+res3 512 263
+
+player_info_pos-s
+p_health = rect.centerx = 52 + 66   rect.centery = 32
+gun blit rect.x = 122 + 66 rect.y = 16
+resours 1 = rect.centerx = 41+66  rect.centery = 115
+resours 2 = rect.centerx = 105+66  rect.centery = 115
+resours 3 = rect.centerx = 170+66  rect.centery = 155
+
+exit_button  x = 259 y = 294
+
+

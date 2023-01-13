@@ -1,0 +1,6 @@
+gun 1 - bullet(rect.left = 12,rect.bottom = 7, size_x = 2, size_y = 3)
+gun 2 - bullet1(rect.left = 3, rect.bottom = 7, size_x = 1, size_y = 3)
+	bullet2(rect.left = 12, rect.bottom = 12, size_x = 1, size_y = 3)
+gun 3 - bullet(rect.left = 7, rect.bottom = -1, size_x = 2, size_y = 5)
+gun 4 - bullet( rect.left = 12, rect.bottom = 8, size_x = 2, size_y = 4)
+
